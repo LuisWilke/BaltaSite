@@ -1,0 +1,15 @@
+C:\Users\Luis\Documents\Desenvolvimento\.NET\BaltaSite\bin\Debug\net8.0\BaltaSite.exe
+C:\Users\Luis\Documents\Desenvolvimento\.NET\BaltaSite\bin\Debug\net8.0\BaltaSite.deps.json
+C:\Users\Luis\Documents\Desenvolvimento\.NET\BaltaSite\bin\Debug\net8.0\BaltaSite.runtimeconfig.json
+C:\Users\Luis\Documents\Desenvolvimento\.NET\BaltaSite\bin\Debug\net8.0\BaltaSite.dll
+C:\Users\Luis\Documents\Desenvolvimento\.NET\BaltaSite\bin\Debug\net8.0\BaltaSite.pdb
+C:\Users\Luis\Documents\Desenvolvimento\.NET\BaltaSite\obj\Debug\net8.0\BaltaSite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Documents\Desenvolvimento\.NET\BaltaSite\obj\Debug\net8.0\BaltaSite.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\Desenvolvimento\.NET\BaltaSite\obj\Debug\net8.0\BaltaSite.AssemblyInfo.cs
+C:\Users\Luis\Documents\Desenvolvimento\.NET\BaltaSite\obj\Debug\net8.0\BaltaSite.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Desenvolvimento\.NET\BaltaSite\obj\Debug\net8.0\BaltaSite.sourcelink.json
+C:\Users\Luis\Documents\Desenvolvimento\.NET\BaltaSite\obj\Debug\net8.0\BaltaSite.dll
+C:\Users\Luis\Documents\Desenvolvimento\.NET\BaltaSite\obj\Debug\net8.0\refint\BaltaSite.dll
+C:\Users\Luis\Documents\Desenvolvimento\.NET\BaltaSite\obj\Debug\net8.0\BaltaSite.pdb
+C:\Users\Luis\Documents\Desenvolvimento\.NET\BaltaSite\obj\Debug\net8.0\BaltaSite.genruntimeconfig.cache
+C:\Users\Luis\Documents\Desenvolvimento\.NET\BaltaSite\obj\Debug\net8.0\ref\BaltaSite.dll

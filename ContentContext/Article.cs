@@ -1,7 +1,7 @@
 namespace baltasite.ContentContext
 {
-    public class Article
+    public class Article : Content 
     {
-
+        
     }
 }
